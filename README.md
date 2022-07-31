@@ -17,6 +17,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50"/>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Major2571">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## Objetivos
 
  - Me formar no Técnico de Desenvolvimento de Sistemas;
