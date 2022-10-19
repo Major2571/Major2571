@@ -18,9 +18,9 @@
 
 
 <div align="center">
-	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&count_private=true&hide_border=true&title_color=44e3d3&icon_color=83d4b9&text_color=9debe7&bg_color=000000ff"/>
-	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=44e3d3&icon_color=03a63c&text_color=c9d1d9&bg_color=000000ff" />
- 
+	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&count_private=true&hide_border=true&title_color=44e3d3&icon_color=83d4b9&text_color=9debe7&bg_color=000000ff"/>
+	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=44e3d3&icon_color=03a63c&text_color=c9d1d9&bg_color=000000ff" />
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=major2571&hide_border=true&area=true&layout=compact&title_color=44E3D3&bg_color=000000FF&color=32A89C&line=02A676&point=9DEBE7&area_color=02A676)
  
 </div>
