@@ -21,8 +21,8 @@
 	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&count_private=true&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=000000ff"/>
 	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=000000ff" />
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=major2571&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=000000ff&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676)
- 
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=000000ff&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676)
+	
 </div>
 
 <br>
