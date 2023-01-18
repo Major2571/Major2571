@@ -16,10 +16,11 @@
 	 </h3>
 </div>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=00000000)](https://github.com/major2571/github-readme-stats)
+	
+<div align="center"> 
+	
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6" alt="CarolTcts's github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=00000000" />
 	
 ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=transparent&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676)
 	
