@@ -16,12 +16,12 @@
 	 </h3>
 </div>
 
-
 <div align="center">
-	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&count_private=true&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=000000ff"/>
-	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=000000ff" />
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=000000ff&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=00000000)](https://github.com/major2571/github-readme-stats)
+	
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=transparent&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676)
 	
 </div>
 
@@ -58,8 +58,10 @@
 </div>
 
 <br>
+<br>
+<br>
 
-> *We don't need to go outside for finding bugs!*
+> *We don't need to go outside for finding bugs!* <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/bug_1f41b.png" width="35" align="center"/>
 
 <br>
 
