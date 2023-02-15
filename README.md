@@ -21,8 +21,8 @@
 	
 <div align="center"> 
 	
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6" alt="CarolTcts's github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=00000000" alt="CarolTcts's github most used languages"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6" alt="CarolTcts's github stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=0bb1a1&icon_color=008f81&text_color=9ccfc6&bg_color=00000000" alt="CarolTcts's github most used languages"/>
 
 <br>
 	
