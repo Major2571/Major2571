@@ -3,7 +3,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c52233&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&color=c52233&center=true&vCenter=false&width=1000&height=52&lines=Hello+World!;Studying+Systems+Development;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&color=CA3847&center=true&vCenter=false&width=1000&height=52&lines=Hello+World!;Studying+Systems+Development;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <div align="center">
 	 <h3> 
@@ -21,12 +21,12 @@
 	
 <div align="center"> 
 	
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=c52233&icon_color=a8a8c2&text_color=f7f7f7&count_private=true&include_all_commits=true" alt="CarolTcts's github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=c52233&icon_color=7d8cc4&text_color=9ccfc6&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="CarolTcts's github most used languages"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=CA3847&icon_color=4c60a8&text_color=CBD1E7&count_private=true&include_all_commits=true" alt="CarolTcts's github stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=CA3847&icon_color=7d8cc4&text_color=CBD1E7&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="CarolTcts's github most used languages"/>
 
 <br>
 	
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=c52233&bg_color=transparent&color=c52233&line=f7d1cd&point=a51c30&area_color=02A676&count_private=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Major2571&hide_border=true&area=true&layout=compact&title_color=CA3847&bg_color=transparent&color=CA3847&line=D66470&point=a51c30&area_color=e9afb5&count_private=true)
 	
 </div>
 
@@ -76,7 +76,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=c52233&center=true&vCenter=true&width=200&height=52&lines=See+You!!!)](https://git.io/typing-svg) <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/3416758i2EEF9A35E062EC07?v=v2" width="45" align="top"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=CA3847&center=true&vCenter=true&width=200&height=52&lines=See+You!!!)](https://git.io/typing-svg) <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/3416758i2EEF9A35E062EC07?v=v2" width="45" align="top"/>
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c52233&height=120&section=footer"/>
