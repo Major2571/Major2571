@@ -21,8 +21,8 @@
 	
 <div align="center"> 
 	
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=FD6767&icon_color=4c60a8&text_color=CBD1E7&count_private=true&include_all_commits=true" alt="CarolTcts's github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2571&layout=compact&hide_border=true&title_color=FD6767&icon_color=7d8cc4&text_color=CBD1E7&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="CarolTcts's github most used languages"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=major2571&show_icons=true&bg_color=00000000&hide_border=true&title_color=FD6767&icon_color=4c60a8&text_color=CBD1E7&count_private=true&include_all_commits=true" alt="CarolTcts's github stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=major2571&layout=compact&hide_border=true&title_color=FD6767&icon_color=7d8cc4&text_color=CBD1E7&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="CarolTcts's github most used languages"/>
 
 <br>
 	
