@@ -40,6 +40,7 @@
 	<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<br>
 	<img src="https://img.shields.io/badge/react_native-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+	<img src="https://img.shields.io/badge/vuejs-0D1117.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08&labelColor=0D1117"/>
 	<img src="https://img.shields.io/badge/laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=23FF2D20&labelColor=0D1117"/>
 </div>
 
