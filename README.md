@@ -32,8 +32,8 @@
 	
 </div>
 
-### Studying in this moment:
-<div align="center">
+### Skills:
+<div>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=e34f26&color=0d1117"/>
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=1572b6&color=0d1117"/>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=0d1117"/>
@@ -51,7 +51,7 @@
 
 ### Tools:
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1b6ac6&color=0d1117"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=1b6ac6&color=0d1117"/>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=f05033&color=0d1117"/>
@@ -63,8 +63,8 @@
 <br>
 
 ### Contact
-<div align="center">
-	<a href="https://www.linkedin.com/in/caroline-tacats-2a1a67238/" target="_blank">
+<div>
+	<a href="https://www.linkedin.com/in/caroline-tacats" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=0a66c2&color=0d1117" target="_blank">
 	</a>
 	<a href = "mailto:caroline.tacats62@gmail.com">
