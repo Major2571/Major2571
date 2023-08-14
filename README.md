@@ -40,9 +40,7 @@
 ![PHP](https://img.shields.io/badge/php-0D1117.svg?logo=php&logoColor=777BB4&labelColor=0D1117&style=for-the-badge)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?logo=openjdk&logoColor=ED8B00&style=for-the-badge)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?logo=mysql&logoColor=white&labelColor=0D1117&style=for-the-badge)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 <br>
-![ReactNative](https://img.shields.io/badge/react_native-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
 ![Vue](https://img.shields.io/badge/vuejs-0D1117.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08&labelColor=0D1117)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=23FF2D20&labelColor=0D1117)&nbsp;&nbsp;
 
