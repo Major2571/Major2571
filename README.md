@@ -6,14 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&color=FD6767&center=true&vCenter=false&width=1000&height=52&lines=Hello+World!;Always+learning+new+things!)](https://git.io/typing-svg)
 
 <div align="center">
-	 <h3> 
-		Hi there! 
-		 <img src="https://emoji.discadia.com/emojis/0971c860-4b44-4d29-ac1e-59f9cc9cd297.gif" width="48" align="center"/>
-		 <br><br>
-		 <img src="https://emoji.discadia.com/emojis/c2ba8b89-c077-4bef-9abb-3685823eed2f.GIF" width="50" align="bottom"/>
-			Welcome to my GitHub profile!
-		 <img src="https://emoji.discadia.com/emojis/2f0bb10c-df34-4640-905c-b4a8dbfad00c.gif" width="65" align="center"/>
-	 </h3>
+	<b> Hello there! </b>
+	<img src="https://emoji.discadia.com/emojis/0971c860-4b44-4d29-ac1e-59f9cc9cd297.gif" width="48" align="center"/>
+	<br>
+	<img src="https://emoji.discadia.com/emojis/c2ba8b89-c077-4bef-9abb-3685823eed2f.GIF" width="50" align="bottom"/>
+	<b> Welcome to my GitHub profile! </b>
+	<img src="https://emoji.discadia.com/emojis/2f0bb10c-df34-4640-905c-b4a8dbfad00c.gif" width="65" align="center"/>
 </div>
 
 <br>
@@ -67,7 +65,7 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FD6767&center=true&vCenter=true&width=200&height=52&lines=See+You!!!)](https://git.io/typing-svg) <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/3416758i2EEF9A35E062EC07?v=v2" width="45" align="top"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FD6767&center=true&vCenter=true&width=200&height=52&lines=See+you!!!)](https://git.io/typing-svg) <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/3416758i2EEF9A35E062EC07?v=v2" width="45" align="top"/>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c52233&height=120&section=footer"/>
  
