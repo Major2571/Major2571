@@ -59,9 +59,9 @@
   </a>
 </div>
 
-&nbsp;
+&nbsp;&nbsp;
 
-> *We don't need to go outside for finding bugs!* <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/bug_1f41b.png" width="35" align="center"/>
+*We don't need to go outside for finding bugs!* <img src="https://em-content.zobj.net/source/skype/289/bug_1f41b.png" width="35" align="center"/>
 
 &nbsp;&nbsp;
 
