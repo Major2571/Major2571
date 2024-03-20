@@ -47,6 +47,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-0D1117.svg?logo=git&logoColor=E44C30&labelColor=0D1117&style=for-the-badge)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=fff&color=0d1117)&nbsp;&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=0047b3&color=0D1117)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?logo=figma&logoColor=white&style=for-the-badge)&nbsp;&nbsp;
 
 ### Contact
